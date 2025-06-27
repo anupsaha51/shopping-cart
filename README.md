@@ -22,7 +22,7 @@ Features a product catalog, product details, shopping cart, and a checkout flow.
 ### 1. Clone the repository or unzip the project
 
 
-git clone https://your-repo-url.git
+git clone https://github.com/anupsaha51/shopping-cart.git
 
 cd ecommerce-app
 
