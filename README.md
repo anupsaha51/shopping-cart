@@ -56,9 +56,9 @@ Tailwind CSS
 Context API for state management
 
 ## Screenshots
-![App Screenshot](public/screenshot1.png)
-![App Screenshot](public/screenshot2.png)
-![App Screenshot](public/screenshot3.png)
-![App Screenshot](public/screenshot4.png)
+![App Screenshot](public/screen1.png)
+![App Screenshot](public/screen2.png)
+![App Screenshot](public/screen3.png)
+![App Screenshot](public/screen4.png)
 
 
