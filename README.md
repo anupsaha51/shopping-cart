@@ -24,7 +24,7 @@ Features a product catalog, product details, shopping cart, and a checkout flow.
 
 git clone https://github.com/anupsaha51/shopping-cart.git
 
-cd ecommerce-app
+cd shopping-cart
 
 ## Demo Products
 Sample products include:
